@@ -1,0 +1,3 @@
+# ninja log v5
+1	18980	1681740408206985225	/data/zhang_20/projects/RegGeoNet/utils/EMD/build/temp.linux-x86_64-cpython-39/cuda/emd_kernel.o	5044b9923cdb4eec
+0	30747	1681740419959040006	/data/zhang_20/projects/RegGeoNet/utils/EMD/build/temp.linux-x86_64-cpython-39/cuda/emd.o	3735a38fad90ac2c

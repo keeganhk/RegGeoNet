@@ -1,0 +1,4 @@
+# ninja log v5
+0	18283	1681739786044114026	/data/zhang_20/projects/RegGeoNet/utils/CD/build/temp.linux-x86_64-cpython-39/chamferdist/knn_cpu.o	360774842ee9fcaa
+0	20585	1681739788344124483	/data/zhang_20/projects/RegGeoNet/utils/CD/build/temp.linux-x86_64-cpython-39/chamferdist/ext.o	66d391b9b9ae13d9
+0	72919	1681739840636362670	/data/zhang_20/projects/RegGeoNet/utils/CD/build/temp.linux-x86_64-cpython-39/chamferdist/knn.o	1072b0ef19bd21e7
