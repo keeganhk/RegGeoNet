@@ -16,7 +16,7 @@ pip install git+https://github.com/kornia/kornia
 Run ```para_pc.py``` under the ```scripts/para/``` folder to convert a given 3D point cloud into its DeepGI representation.
 
 ### Downstream Applications
-Different downstream tasks can be performed directly on the generated DeepGIs, as an equivalent way of processing point cloud data. The pre-processed DeepGI-format datasets can be downloaded [here](https://pan.baidu.com/s/1EDJ5s6Ej-iSa7H7FUwKM5A?pwd=jokp) (password: jokp). Please put them under the ```data``` folder. Our pre-trained models are provided under the ```ckpt``` folder.
+Different downstream tasks can be performed directly on the generated DeepGIs, as an equivalent way of processing point cloud data. The pre-processed DeepGI-format datasets can be downloaded [here](https://pan.baidu.com/s/1cpEyOO5l1e7Uh9P-FrKI1g?pwd=5j86) (password: 5j86). Please put them under the ```data``` folder. Our pre-trained models are provided under the ```ckpt``` folder.
 
 ### Citation
 If you find our work useful in your research, please consider citing:
